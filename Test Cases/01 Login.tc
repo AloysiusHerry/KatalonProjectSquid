@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01 Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b86ee3f2-9442-44ac-b4dc-deaa1d5c22dc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cd1727e-e394-4f06-91d8-78dbd22985a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d430349-b01c-429a-8095-7c573f87d3ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6a4cc3e-460c-43dc-84dc-4eff6ea7e9fc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae8b31ce-6049-4ffa-83bb-43c48010b4e1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f44a28d-aa35-48f4-bf84-5c7493c342ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'009 - PT'</defaultValue>
+      <description></description>
+      <id>6cd1727e-e394-4f06-91d8-78dbd22985a5</id>
+      <masked>false</masked>
+      <name>JenisPerusahaan</name>
+   </variable>
+   <variable>
+      <defaultValue>'1111'</defaultValue>
+      <description></description>
+      <id>8d430349-b01c-429a-8095-7c573f87d3ef</id>
+      <masked>false</masked>
+      <name>SekEkonomi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Anton Medan'</defaultValue>
+      <description></description>
+      <id>f6a4cc3e-460c-43dc-84dc-4eff6ea7e9fc</id>
+      <masked>false</masked>
+      <name>NamaLengkap</name>
+   </variable>
+   <variable>
+      <defaultValue>'12062023'</defaultValue>
+      <description></description>
+      <id>ae8b31ce-6049-4ffa-83bb-43c48010b4e1</id>
+      <masked>false</masked>
+      <name>TglBerdiri</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT Maju Mundur'</defaultValue>
+      <description></description>
+      <id>8f44a28d-aa35-48f4-bf84-5c7493c342ec</id>
+      <masked>false</masked>
+      <name>NamaPerusahaan</name>
+   </variable>
+</TestCaseEntity>

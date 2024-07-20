@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02 Deduplication</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c3db932-97a7-4a7d-a61f-70a65ed7cfcf</testCaseGuid>
+</TestCaseEntity>
